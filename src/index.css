@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "bodini";
+  src: url("../public/fonts/BodoniFLF-Roman.ttf") format("truetype");
+  font-weight: 400;
+
+  font-style: normal;
+}
+.nio {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-position: center 68%;
+  height: 80vh;
+  width: 100%;
+  background-size: cover;
+  position: relative;
+  background-image: url("../src/assets/us2.jpg");
+}
+.hpo {
+  background-image: url("../src/assets/hotel.webp");
+  display: flex;
+  align-items: center;
+  height: 70vh;
+  justify-content: center;
+  flex-direction: column;
+}
+.nio::after {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #00000073;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  content: "";
+}
+.hpo::after {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #0000009f;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  content: "";
+}
+@media (max-width: 575.98px) {
+  .nio {
+    height: 30vh;
+  }
+
+  .hpo {
+    height: auto;
+    padding: 40px;
+  }
+
+  .r {
+    text-align: center;
+  }
+
+  .gio {
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: center;
+  }
+
+  .muda {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .hopes {
+    align-items: center !important;
+    display: flex;
+    justify-content: center!important;
+  }
+
+  .mosa{
+    padding:20px 0 0 0!important;
+  }
+}
+
+@font-face {
+  font-family: "eb";
+  src: url("../public/fonts/EBGaramond-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ed";
+  src: url("../public/fonts/Edwardian\ Script\ ITC\ Regular.ttf")
+    format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "pio";
+  src: url("../public/fonts/PinyonScript-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ooters {
+  padding: 10px;
+  font-family: "eb";
+  background-color: #1a1a1a;
+  font-size: 14px;
+  color: #fff;
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
