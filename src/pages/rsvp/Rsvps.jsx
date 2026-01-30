@@ -113,7 +113,7 @@ const Rsvps = () => {
       <h2 className="rs_title">Kindly Respond</h2>
       <p className="rs_para">
         Please let us know if you will be joining us by{" "}
-        <strong>April 1, 2026</strong>.
+        <strong>July 10, 2026</strong>.
       </p>
 
       <form className="rs_form" onSubmit={handleSubmit}>
