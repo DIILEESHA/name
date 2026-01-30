@@ -215,7 +215,7 @@ const Rsvps = () => {
 
         {/* Message */}
         <div className="form_input_section">
-          <label>Message for Martin & Chantel</label>
+          <label>Message for Jaslene & Mišel</label>
           <textarea
             name="message"
             value={formData.message}
