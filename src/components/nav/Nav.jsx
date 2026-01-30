@@ -55,7 +55,7 @@ const scrollToSection = (id) => {
         </div>
 
         <ul className="mobile_ul">
-          {/* <li onClick={() => scrollToSection("schedule")}>Schedule</li> */}
+          <li onClick={() => scrollToSection("wedding")}>Wedding Day</li>
           <li onClick={() => scrollToSection("dresscode")}>Dress Code</li>
           <li onClick={() => scrollToSection("faq")}>FAQ</li>
           <li>
