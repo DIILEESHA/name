@@ -26,7 +26,7 @@ const Home = () => {
       <Faq />
       <Rsvp />
 
-      <h2 className="ooters">Name & Name © All Rights Reserved</h2>
+      <h2 className="ooters">Jaslene  & Mišel  © All Rights Reserved</h2>
     </>
   );
 };

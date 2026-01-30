@@ -1,6 +1,8 @@
 .sc {
   background-color: #fff;
   background-color: #f3f3ed9d;
+  background-color: #F7F4EE!important;
+
   padding: 80px 0;
 }
 .hopes {
@@ -35,7 +37,8 @@
   border: 5px solid #fff;
   padding: 15px;
   border-radius: 50px;
-  background-color: #1a1a1a;
+  background-color: #C8A24D;
+
   color: #fff;
 }
 .doha {
@@ -78,6 +81,7 @@
   font-family: "eb";
   font-weight: 200;
   font-size: 60px;
+  color: #013314;
 }
 
 .sc_sub {
@@ -87,6 +91,8 @@
 }
 .text_sc_p {
   font-family: "pio";
+  color: #013314;
+
   font-size: 70px;
   font-weight: 400;
 }

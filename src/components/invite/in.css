@@ -1,5 +1,5 @@
 .invite {
-  background-color: #f3f3ed9d;
+  background-color: #F7F4EE;
 }
 
 .nvite_grid {
@@ -25,7 +25,7 @@
 .top_invite_text {
   font-family: "ed";
   font-size: 70px;
-  color: #333;
+  color: #0F3D2E;
   text-align: center;
   margin-bottom: 30px;
   /* font-weight: 400; */
@@ -34,6 +34,8 @@
 .faq_ul {
   text-align: left;
   margin: 40px 20px 0px 20px;
+  color: #0F3D2E;
+
 }
 
 .faq_li {
@@ -52,6 +54,8 @@
   font-size: 50px;
   font-weight: 400;
   font-family: "eb";
+  color: #0F3D2E;
+
 }
 
 .bible_verse {
@@ -85,19 +89,24 @@
 .nb {
   font-family: "bodini";
   color: #333;
+  color: #0F3D2E;
+
 }
 
 .in_time {
   font-family: "eb";
   font-size: 30px;
-  color: #000000e1;
+  color: #0F3D2E;
 }
 
 .aa {
   font-family: "eb";
+  color: #0F3D2E;
+
 }
 
 .address {
+  color: #0F3D2E;
   font-family: "eb";
   width: 70%;
   text-align: center;
@@ -110,6 +119,8 @@
 
 .hep {
   color: #000;
+  color: #0F3D2E;
+
   width: 100%;
 }
 

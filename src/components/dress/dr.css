@@ -2,6 +2,7 @@
   background-size: cover;
   width: 100%;
   background-color: #f3f3ed9d;
+  background-color: #F7F4EE!important;
 
   padding: 160px 80px;
   position: relative;
@@ -15,6 +16,7 @@
   background-position: center center;
   width: 100%;
   background-color: #f3f3ed9d;
+  background-color: #F7F4EE!important;
 
   padding: 80px 80px;
   position: relative;
@@ -88,8 +90,8 @@
   width: 60%;
   padding: 100px 0px;
   text-align: center;
-  background-color: #f1ededb9;
-  border: 1px solid #333;
+  background-color: #D8B873;
+  border: 2px solid #333;
 }
 
 .dress_title {

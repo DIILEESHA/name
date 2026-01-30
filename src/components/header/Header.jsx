@@ -10,11 +10,11 @@ const Header = () => {
       <Nav />
       <div className="inside_header">
         <div className="couple_name_section">
-          <h2 className="couple_name">N</h2>
-          <h2 className="couple_name">N</h2>
+          <h2 className="couple_name">J</h2>
+          <h2 className="couple_name">M</h2>
         </div>
 
-        <h2 className="full_name">name & name </h2>
+        <h2 className="full_name">Jaslene  & Mišel  </h2>
 
         <h3 className="date">September 11 2026</h3>
       </div>
