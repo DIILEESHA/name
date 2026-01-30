@@ -65,7 +65,7 @@ const AdminDashboard = () => {
 
   // LOGIN
   const handleLogin = () => {
-    if (password === "mc26!") {
+    if (password === "jm26") {
       setIsAuth(true);
       message.success("Logged in successfully");
     } else {

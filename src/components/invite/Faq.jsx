@@ -12,29 +12,43 @@ const Faq = () => {
         <div className="in_sub text_content">
           <h4 className="top_invite_textS">FREQUENTLY ASKED QUESTIONS</h4>
 
-          {/* FAQ 1: Dress Code */}
+          {/* FAQ 1: Dual Ceremony */}
           <ul className="faq_ul">
-            <li className="faq_li">What is the dress code?</li>
+            <li className="faq_li">What is a dual ceremony wedding?</li>
             <p className="ans">
-              We would love for our guests to dress elegantly. The dress code is Black Tie—formal gowns, tuxedos, or sophisticated suits are perfect for the celebration.
+              We are celebrating both of our cultures and faiths with two ceremonies—a Sikh ceremony and a Christian Orthodox ceremony. Guests are welcome to attend one or both, as noted on your invitation.
             </p>
           </ul>
 
-          {/* FAQ 2: Ceremony Times */}
+          {/* FAQ 2: Ceremonies & Languages */}
           <ul className="faq_ul">
-            <li className="faq_li">When are the ceremonies?</li>
+            <li className="faq_li">What should I know about the ceremonies?</li>
             <p className="ans">
-              The Sikh Ceremony will be on September 11 at 9:30 AM, and the Orthodox Ceremony will be on September 17 at 2:00 PM.
+              The Sikh ceremony will include Punjabi and English, while the Christian Orthodox ceremony will be primarily in Serbian/Church Slavonic with brief explanations in English.
             </p>
           </ul>
 
-        
-
-          {/* FAQ 4: Hotel for Guests */}
+          {/* FAQ 3: Sikh Ceremony Etiquette */}
           <ul className="faq_ul">
-            <li className="faq_li">Where can guests stay?</li>
+            <li className="faq_li">Is there anything special to know for the Sikh ceremony?</li>
             <p className="ans">
-              Guests can stay at Hotel Balkan. A discounted rate will be available in March, and a booking code will be provided on the hotel website.
+              Modest attire is appreciated, head coverings are required, and shoes will be removed before entering. Breakfast and a light lunch will be provided.
+            </p>
+          </ul>
+
+          {/* FAQ 4: Travel & Stay */}
+          <ul className="faq_ul">
+            <li className="faq_li">Where should I stay and how do I get around?</li>
+            <p className="ans">
+              We recommend staying near the city center in Belgrade. A hotel with a group rate is listed on our Stay page, and taxis and ride-sharing apps are easily available.
+            </p>
+          </ul>
+
+          {/* FAQ 5: Gifts */}
+          <ul className="faq_ul">
+            <li className="faq_li">Are gifts expected?</li>
+            <p className="ans">
+              Your presence means the world to us. If you wish to give something, a card or contribution toward our future together is deeply appreciated.
             </p>
           </ul>
         </div>
