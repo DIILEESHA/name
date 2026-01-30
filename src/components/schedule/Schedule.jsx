@@ -38,7 +38,6 @@ const Schedule = () => {
               </p>
             </div>
             <br />
-            <br />
 
             <div className="detail_item ui mo">
               <img src={cers} alt="" className="jo" />
@@ -62,7 +61,6 @@ const Schedule = () => {
               </p>
             </div>
 
-            <br />
             <br />
 
             <div className="detail_item mo">
@@ -109,7 +107,6 @@ const Schedule = () => {
               </p>
             </div>
             <br />
-            <br />
 
             <div className="detail_item ui mo gio">
               <img src={cers} alt="" className="jo" />
@@ -133,7 +130,6 @@ const Schedule = () => {
               </p>
             </div>
 
-            <br />
             <br />
 
             <div className="detail_item ui mo gio">
